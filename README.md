@@ -1,2 +1,2 @@
 # BookHub
-POC of E-commerce Application
+POC of E-Commerce Application
